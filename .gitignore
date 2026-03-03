@@ -2,13 +2,13 @@
 .env
 
 # Generated output
-campaign_templates_documentation.md
+# campaign_tempßlates_documentation.md
 
 # Python
 __pycache__/
 *.pyc
 *.pyo
-.venv/
+.venv/ß
 venv/
 
 # macOS

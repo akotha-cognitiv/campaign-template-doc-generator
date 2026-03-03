@@ -1,0 +1,15 @@
+# Environment / secrets
+.env
+
+# Generated output
+campaign_templates_documentation.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# macOS
+.DS_Store
